@@ -1,0 +1,288 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>26.4    Acid-Base Balance   fvcc104</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m81064</md:content-id>
+  <md:title>26.4    Acid-Base Balance   fvcc104</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Identify the most powerful buffer system in the body</item>
+<item>Explain the way in which the respiratory system affects blood pH</item>
+</list></md:abstract>
+  <md:uuid>b4029c36-d071-4de0-8536-7b4dc38b94df</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1841022">Proper physiological functioning depends on a very tight balance between the concentrations of acids and bases in the blood. Acid-balance balance is measured using the pH scale, as shown in <link target-id="fig-ch27_04_01" document=""/>. A variety of buffering systems permits blood and other bodily fluids to maintain a narrow pH range, even in the face of perturbations. A buffer is a chemical system that prevents a radical change in fluid pH by dampening the change in hydrogen ion concentrations in the case of excess acid or base. Most commonly, the substance that absorbs the ions is either a weak acid, which takes up hydroxyl ions, or a weak base, which takes up hydrogen ions.</para>
+<figure id="fig-ch27_04_01"><title>The pH Scale </title><media id="fs-id2058798" alt="This table gives examples of solutions from PH of zero to 14. Examples of solutions with a PH of zero include battery acid and strong hydrofluoric acid. An example of a solution with a pH of one is the hydrochloric acid secreted by the stomach lining. Examples of solutions with a PH of two include lemon juice and vinegar. Examples of solutions with a PH of three include grapefruit juice, orange juice and soda. Examples of solutions with a PH of four include tomato juice and acid rain. Examples of solutions with a PH of five include soft drinking water and black coffee. Examples of solutions with a PH of  six include urine and saliva. An example of a solution with a PH of seven is pure water. An example of a solution with a PH of eight is sea water. An example of a solution with a PH of nine is baking soda. Examples of solutions with a PH of ten  include saline lake water and milk of magnesia. An example of a solution with a PH of eleven is an ammonia solution. An example of a solution with a PH of twelve is soapy water. Examples of solutions with a PH of  thirteen include bleach and oven cleaner. An example of a solution with a PH of fourteen is liquid drain cleaner.">
+<image mime-type="image/jpg" src="../../media/2713_pH_Scale-01.jpg" width="320"/>
+</media>
+<caption>This chart shows where many common substances fall on the pH scale.</caption></figure><section id="fs-id2143807">
+<title>Buffer Systems in the Body</title>
+<para id="fs-id1638084">The buffer systems in the human body are extremely efficient, and different systems work at different rates. It takes only seconds for the chemical buffers in the blood to make adjustments to pH. The respiratory tract can adjust the blood pH upward in minutes by exhaling CO<sub>2</sub> from the body. The renal system can also adjust blood pH through the excretion of hydrogen ions (H<sup>+</sup>) and the conservation of bicarbonate, but this process takes hours to days to have an effect.</para>
+<para id="fs-id1272927">The buffer systems functioning in blood plasma include plasma proteins, phosphate, and bicarbonate and carbonic acid buffers. The kidneys help control acid-base balance by excreting hydrogen ions and generating bicarbonate that helps maintain blood plasma pH within a normal range. Protein buffer systems work predominantly inside cells.</para>
+</section>
+<section id="fs-id2058062">
+<title>Respiratory Regulation of Acid-Base Balance</title>
+<para id="fs-id1725236">The respiratory system contributes to the balance of acids and bases in the body by regulating the blood levels of carbonic acid (<link target-id="fig-ch27_04_02" document=""/>). CO<sub>2 </sub>in the blood readily reacts with water to form carbonic acid, and the levels of CO<sub>2 </sub>and carbonic acid in the blood are in equilibrium. When the CO<sub>2 </sub>level in the blood rises (as it does when you hold your breath), the excess CO<sub>2</sub> reacts with water to form additional carbonic acid, lowering blood pH. Increasing the rate and/or depth of respiration (which you might feel the “urge” to do after holding your breath) allows you to exhale more CO<sub>2</sub>. The loss of CO<sub>2</sub> from the body reduces blood levels of carbonic acid and thereby adjusts the pH upward, toward normal levels. As you might have surmised, this process also works in the opposite direction. Excessive deep and rapid breathing (as in hyperventilation) rids the blood of CO<sub>2</sub> and reduces the level of carbonic acid, making the blood too alkaline. This brief alkalosis can be remedied by rebreathing air that has been exhaled into a paper bag. Rebreathing exhaled air will rapidly bring blood pH down toward normal.</para><figure id="fig-ch27_04_02"><title>Respiratory Regulation of Blood pH </title><media id="fs-id1632998" alt="This top to bottom flowchart describes the regulation of PH in the blood. The left branch shows acidosis, which is when the PH of the blood drops. Acidosis stimulates brain and arterial receptors, triggering an increase in respiratory rate. This causes a drop in blood CO two and H two CO three. A drop in these two acidic compounds causes the blood PH to rise back to homeostatic levels. The right branch shows alkalosis which is when the PH of the blood rises. Alkalosis also stimulates brain and arterial receptors, but these now trigger a decrease in respiratory rate. This causes an increase in blood CO two and H two CO three, which lowers the PH of the blood back to homeostatic levels.">
+<image mime-type="image/jpg" src="../../media/2714_Respiratory_Regulation_of_Blood.jpg" width="280"/>
+</media>
+<caption>The respiratory system can reduce blood pH by removing CO<sub>2 </sub>from the blood.</caption></figure><para id="fs-id1700837">The body regulates the respiratory rate by the use of chemoreceptors, which primarily use CO<sub>2</sub> as a signal. Peripheral blood sensors are found in the walls of the aorta and carotid arteries. These sensors signal the brain to provide immediate adjustments to the respiratory rate if CO<sub>2 </sub>levels rise or fall. Yet other sensors are found in the brain itself. Changes in the pH of CSF affect the respiratory center in the medulla oblongata, which can directly modulate breathing rate to bring the pH back into the normal range.</para>
+<para id="fs-id2004894"><term>Hypercapnia</term>, or abnormally elevated blood levels of CO<sub>2</sub>, occurs in any situation that impairs respiratory functions, including pneumonia and congestive heart failure. Reduced breathing (hypoventilation) due to drugs such as morphine, barbiturates, or ethanol (or even just holding one’s breath) can also result in hypercapnia. <term>Hypocapnia</term>, or abnormally low blood levels of CO<sub>2</sub>, occurs with any cause of hyperventilation that drives off the CO<sub>2</sub>, such as salicylate toxicity, elevated room temperatures, fever, or hysteria.</para>
+</section>
+<section id="fs-id2080161"><title>Renal Regulation of Acid-Base Balance</title><para id="fs-id1405109">The renal regulation of the body’s acid-base balance addresses the metabolic component of the buffering system. Whereas the respiratory system (together with breathing centers in the brain) controls the blood levels of carbonic acid by controlling the exhalation of CO<sub>2</sub>, the renal system controls the blood levels of bicarbonate.</para><note id="fs-id1473396" class="anatomy disorders">
+<label/>
+<title>Disorders of the…</title>
+<para id="fs-id1417161"><title>Acid-Base Balance: Ketoacidosis</title>Diabetic acidosis, or ketoacidosis, occurs most frequently in people with poorly controlled diabetes mellitus. When certain tissues in the body cannot get adequate amounts of glucose, they depend on the breakdown of fatty acids for energy. When acetyl groups break off the fatty acid chains, the acetyl groups then non-enzymatically combine to form ketone bodies, acetoacetic acid, beta-hydroxybutyric acid, and acetone, all of which increase the acidity of the blood. In this condition, the brain isn’t supplied with enough of its fuel—glucose—to produce all of the ATP it requires to function.</para><para id="fs-id810193">Ketoacidosis can be severe and, if not detected and treated properly, can lead to diabetic coma, which can be fatal. A common early symptom of ketoacidosis is deep, rapid breathing as the body attempts to drive off CO<sub>2</sub> and compensate for the acidosis. Another common symptom is fruity-smelling breath, due to the exhalation of acetone. Other symptoms include dry skin and mouth, a flushed face, nausea, vomiting, and stomach pain. Treatment for diabetic coma is ingestion or injection of sugar; its prevention is the proper daily administration of insulin.</para>
+<para id="fs-id2144142">A person who is diabetic and uses insulin can initiate ketoacidosis if a dose of insulin is missed. Among people with type 2 diabetes, those of Hispanic and African-American descent are more likely to go into ketoacidosis than those of other ethnic backgrounds, although the reason for this is unknown.</para>
+</note>
+</section><section id="fs-id1391140" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id1483535">A variety of buffering systems exist in the body that helps maintain the pH of the blood and other fluids within a narrow range—between pH 7.35 and 7.45. A buffer is a substance that prevents a radical change in fluid pH by absorbing excess hydrogen or hydroxyl ions. Most commonly, the substance that absorbs the ion is either a weak acid, which takes up a hydroxyl ion (OH<sup>-</sup>), or a weak base, which takes up a hydrogen ion (H<sup>+</sup>). Several substances serve as buffers in the body, including cell and plasma proteins, hemoglobin, phosphates, bicarbonate ions, and carbonic acid. The bicarbonate buffer is the primary buffering system of the IF surrounding the cells in tissues throughout the body. The respiratory and renal systems also play major roles in acid-base homeostasis by removing CO<sub>2</sub> and hydrogen ions, respectively, from the body.</para></section>
+<section id="fs-id1433755" class="multiple-choice">
+<title>Review Questions</title>
+<exercise id="fs-id1372317">
+<problem id="fs-id1766162"><para id="fs-id1540155">Which of the following is the most important buffer inside red blood cells?</para>
+<list id="fs-id2071594" list-type="enumerated" number-style="lower-alpha">
+<item>plasma proteins</item>
+<item>hemoglobin</item>
+<item>phosphate buffers</item>
+<item>bicarbonate: carbonic acid buffer</item>
+</list>
+</problem>
+<solution id="fs-id1907525">
+<label/>
+<para id="fs-id2030374">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id2033690">
+<problem id="fs-id1897422"><para id="fs-id1857310">Which explanation best describes why plasma proteins can function as buffers?</para>
+<list id="fs-id1236251" list-type="enumerated" number-style="lower-alpha">
+<item>Plasma proteins combine with bicarbonate to make a stronger buffer.</item>
+<item>Plasma proteins are immune to damage from acids.</item>
+<item>Proteins have both positive and negative charges on their surface.</item>
+<item>Proteins are alkaline.</item>
+</list>
+</problem>
+<solution id="fs-id1632435">
+<label/>
+<para id="fs-id1895221">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id2025721">
+<problem id="fs-id1838294"><para id="fs-id1645617">The buffer that is adjusted to control acid-base balance is ________.</para>
+<list id="fs-id1200718" list-type="enumerated" number-style="lower-alpha">
+<item>plasma protein</item>
+<item>hemoglobin</item>
+<item>phosphate buffer</item>
+<item>bicarbonate: carbonic acid buffer</item>
+</list>
+</problem>
+<solution id="fs-id1765907">
+<label/>
+<para id="fs-id1361152">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id1967912">
+<problem id="fs-id1393483"><para id="fs-id1475231">Carbonic acid levels are controlled through the ________.</para>
+<list id="fs-id1616610" list-type="enumerated" number-style="lower-alpha">
+<item>respiratory system</item>
+<item>renal system</item>
+<item>digestive system</item>
+<item>metabolic rate of cells</item>
+</list>
+</problem>
+<solution id="fs-id1972545">
+<label/>
+<para id="fs-id1649860">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id1638887">
+<problem id="fs-id1720124"><para id="fs-id1928552">Bicarbonate ion concentrations in the blood are controlled through the ________.</para>
+<list id="fs-id1844842" list-type="enumerated" number-style="lower-alpha">
+<item>respiratory system</item>
+<item>renal system</item>
+<item>digestive system</item>
+<item>metabolic rate of cells</item>
+</list>
+</problem>
+<solution id="fs-id1478902">
+<label/>
+<para id="fs-id2110200">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id2003025">
+<problem id="fs-id2023650"><para id="fs-id1764641">Which reaction is catalyzed by carbonic anhydrase?</para><list id="fs-id1410874" list-type="enumerated" number-style="lower-alpha"><item><m:math display="left">
+ <m:mrow>
+  <m:msubsup>
+   <m:mrow>
+    <m:mtext>HPO</m:mtext>
+   </m:mrow>
+   <m:mtext>4</m:mtext>
+   <m:mrow>
+    <m:mtext>2-</m:mtext>
+   </m:mrow>
+  </m:msubsup>
+  <m:msup>
+   <m:mrow>
+    <m:mtext>+H</m:mtext>
+   </m:mrow>
+   <m:mtext>+</m:mtext>
+  </m:msup>
+<m:mrow>
+  <m:mo stretchy="false">↔</m:mo>
+</m:mrow>
+<m:msub>
+   <m:mtext>H</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mrow>
+    <m:mtext>PO</m:mtext>
+   </m:mrow>
+   <m:mrow>
+    <m:mtext>4-</m:mtext>
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math>
+</item>
+
+<item><m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mrow>
+    <m:mtext>CO</m:mtext>
+   </m:mrow>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mrow>
+    <m:mtext> + H</m:mtext>
+   </m:mrow>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:mtext>O</m:mtext>
+<m:mrow>
+  <m:mo stretchy="false">↔</m:mo>
+</m:mrow>
+<m:msub>
+   <m:mtext>H</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mrow>
+    <m:mtext>CO</m:mtext>
+   </m:mrow>
+   <m:mtext>3</m:mtext>
+  </m:msub>
+  
+ </m:mrow>
+</m:math>
+</item>
+
+<item><m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>H</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mrow>
+    <m:mtext>PO</m:mtext>
+   </m:mrow>
+   <m:mrow>
+    <m:mtext>4</m:mtext><m:mo>−</m:mo>
+   </m:mrow>
+  </m:msub>
+  <m:msup>
+   <m:mrow>
+    <m:mtext>+OH</m:mtext>
+   </m:mrow>
+   <m:mo>−</m:mo>
+  </m:msup>
+<m:mrow>
+  <m:mo stretchy="false">↔</m:mo>
+</m:mrow>
+<m:msubsup>
+   <m:mrow>
+    <m:mtext>HPO</m:mtext>
+   </m:mrow>
+   <m:mtext>4</m:mtext>
+   <m:mrow>
+    <m:mtext>2</m:mtext><m:mo>−</m:mo>
+   </m:mrow>
+  </m:msubsup>
+  <m:msub>
+   <m:mrow>
+    <m:mtext>+H</m:mtext>
+   </m:mrow>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:mtext>O</m:mtext>
+ </m:mrow>
+</m:math>
+</item>
+
+<item><m:math display="left">
+ <m:mrow>
+  <m:msub>
+   <m:mtext>H</m:mtext>
+   <m:mtext>2</m:mtext>
+  </m:msub>
+  <m:msub>
+   <m:mrow>
+    <m:mtext>CO</m:mtext>
+   </m:mrow>
+   <m:mtext>3</m:mtext>
+  </m:msub>
+<m:mrow>
+  <m:mo stretchy="false">↔</m:mo>
+</m:mrow>
+<m:msub>
+   <m:mrow>
+    <m:mtext>HCO</m:mtext>
+   </m:mrow>
+   <m:mrow>
+    <m:mn>3</m:mn><m:mo>−</m:mo>
+   </m:mrow>
+  </m:msub>
+  <m:msup>
+   <m:mrow>
+    <m:mtext>+ H</m:mtext>
+   </m:mrow>
+   <m:mo>+</m:mo>
+  </m:msup>
+  
+ </m:mrow>
+</m:math>
+</item>
+</list></problem>
+<solution id="fs-id1522302">
+<label/>
+<para id="fs-id1888007">B</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1952879" class="free-response">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1928260">
+<problem id="fs-id1980332"><para id="fs-id1845479">Describe the conservation of bicarbonate ions in the renal system.</para></problem>
+<solution id="fs-id1751772"><label/>
+<para id="fs-id2072078">Bicarbonate ions are freely filtered through the glomerulus. They cannot pass freely into the renal tubular cells and must be converted into CO<sub>2</sub> in the filtrate, which can pass through the cell membrane. Sodium ions are reabsorbed at the membrane, and hydrogen ions are expelled into the filtrate. The hydrogen ions combine with bicarbonate, forming carbonic acid, which dissociates into CO<sub>2</sub> gas and water. The gas diffuses into the renal cells where carbonic anhydrase catalyzes its conversion back into a bicarbonate ion, which enters the blood.</para>
+</solution>
+</exercise>
+<exercise id="fs-id2065580">
+<problem id="fs-id1610977"><para id="fs-id1635844">Describe the control of blood carbonic acid levels through the respiratory system.</para></problem>
+<solution id="fs-id1423485"><label/>
+<para id="fs-id1971486">Carbonic acid blood levels are controlled through the respiratory system by the expulsion of CO<sub>2</sub> from the lungs. The formula for the production of bicarbonate ions is reversible if the concentration of CO<sub>2</sub> decreases. As this happens in the lungs, carbonic acid is converted into a gas, and the concentration of the acid decreases. The rate of respiration determines the amount of CO<sub>2</sub> exhaled. If the rate increases, less acid is in the blood; if the rate decreases, the blood can become more acidic.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1909719"><term>hypercapnia</term> <meaning id="fs-id1907093">abnormally elevated blood levels of CO<sub>2</sub></meaning></definition>
+<definition id="fs-id1946838"><term>hypocapnia</term> <meaning id="fs-id1692582">abnormally low blood levels of CO<sub>2</sub></meaning></definition>
+</glossary>
+</document>

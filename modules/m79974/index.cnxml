@@ -1,0 +1,194 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>21.3   The Adaptive Immunity: T lymphocytes fvcc104</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m79974</md:content-id>
+  <md:title>21.3   The Adaptive Immunity: T lymphocytes fvcc104</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain the advantages of the adaptive immune response over the innate immune response</item>
+<item>List the various characteristics of an antigen</item>
+<item>Describe the types of T cell antigen receptors</item>
+<item>Outline the steps of T cell development</item>
+<item>Describe the major T cell types and their functions</item>
+</list></md:abstract>
+  <md:uuid>c21f9934-849c-44e6-bba3-bdfb1d52a46a</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2151282">Innate immune responses (and early induced responses) are in many cases ineffective at completely controlling pathogen growth. However, they slow pathogen growth and allow time for the adaptive immune response to strengthen and either control or eliminate the pathogen. The innate immune system also sends signals to the cells of the adaptive immune system, guiding them in how to attack the pathogen. Thus, these are the two important arms of the immune response.</para>
+<section id="fs-id1886329">
+<title>The Benefits of the Adaptive Immune Response</title>
+<para id="fs-id2240905">The specificity of the adaptive immune response—its ability to specifically recognize and make a response against a wide variety of pathogens—is its great strength. <term>Antigens</term>, the small chemical groups often associated with pathogens, are recognized by receptors on the surface of B and T lymphocytes. The adaptive immune response to these antigens is so versatile that it can respond to nearly any pathogen. This increase in specificity comes because the adaptive immune response has a unique way to develop as many as 10<sup>11</sup>, or <term>100 000 000 000</term>, different receptors to recognize nearly every conceivable pathogen.</para><section id="fs-id1240741">
+<title>Primary Disease and Immunological Memory</title>
+<para id="fs-id1431507">The immune system’s first exposure to a pathogen is called a <term>primary adaptive response</term>. Symptoms of a first infection, called primary disease, are always relatively severe because it takes time for an initial adaptive immune response to a pathogen to become effective.</para>
+<para id="fs-id2096565">Upon re-exposure to the same pathogen, a secondary adaptive immune response is generated, which is stronger and faster that the primary response. The <term>secondary adaptive response</term> often eliminates a pathogen before it can cause significant tissue damage or any symptoms. Without symptoms, there is no disease, and the individual is not even aware of the infection. This secondary response is the basis of <term>immunological memory</term>, which protects us from getting diseases repeatedly from the same pathogen. By this mechanism, an individual’s exposure to pathogens early in life spares the person from these diseases later in life.</para>
+</section>
+<section id="fs-id1401092">
+<title>Self Recognition</title>
+<para id="fs-id1938490">A third important feature of the adaptive immune response is its ability to distinguish between self-antigens, those that are normally present in the body, and foreign antigens, those that might be on a potential pathogen. As T and B cells mature, there are mechanisms in place that prevent them from recognizing self-antigen, preventing a damaging immune response against the body. These mechanisms are not 100 percent effective, however, and their breakdown leads to autoimmune diseases.</para></section>
+</section>
+<section id="fs-id1549116">
+<title>T Cell-Mediated Immune Responses</title>
+<para id="fs-id1761695">The primary cells that control the adaptive immune response are the lymphocytes, the T and B cells. T cells are particularly important, as they not only control a multitude of immune responses directly, but also control B cell immune responses in many cases as well.</para></section>
+<section id="fs-id2202983">
+<title>Antigens</title>
+<para id="fs-id1933220">Antigens on pathogens are usually large and complex.  Carbohydrate antigens are found on bacterial cell walls and on red blood cells (the ABO blood group antigens). Protein antigens are complex because of the variety of three-dimensional shapes that proteins can assume, and are especially important for the immune responses to viruses and worm parasites.</para><figure id="fig-ch22_03_02"><title>Antigenic Determinants</title><media id="fs-id2336707" alt="This figure shows three T cells and the antigenic determinants in the center.">
+<image mime-type="image/jpg" src="../../media/2214_Antigenic_Determinants.jpg" width="480"/>
+</media>
+<caption> A typical protein antigen has multiple antigenic determinants, shown by the ability of T cells with three different specificities to bind to different parts of the same antigen.</caption></figure><section id="fs-id1855302">
+<title>Antigen Processing and Presentation</title>
+<para id="fs-id2237988">T cells do not recognize free-floating or cell-bound antigens as they appear on the surface of the pathogen. They only recognize antigen on the surface of specialized cells called antigen-presenting cells. Antigens are internalized by these cells. <term>Antigen processing</term></para><figure id="fig-ch22_03_03"><title>Antigen Processing and Presentation </title><media id="fs-id2340336" alt="This figure shows how an antigen-presenting cell deals with a pathogen or extracellular antigen. The different steps are shown with text callouts.">
+<image mime-type="image/jpg" src="../../media/2216_Antigen_Processing_and_Presentation.jpg" width="560"/>
+</media>
+</figure></section>
+</section>
+<section id="fs-id2316169">
+<title>Mechanisms of T Cell-mediated Immune Responses</title>
+<para id="fs-id2264083">Mature T cells become activated by recognizing processed foreign antigen in association with a self-MHC molecule and begin dividing rapidly by mitosis. This proliferation of T cells is called <term>clonal expansion</term> and is necessary to make the immune response strong enough to effectively control a pathogen. How does the body select only those T cells that are needed against a specific pathogen? Again, the specificity of a T cell is based on the amino acid sequence and the three-dimensional shape of the antigen-binding site.(<link target-id="fig-ch22_03_05" document=""/>). <term>Clonal selection</term> is the process of antigen binding only to those T cells that have receptors specific to that antigen. Each T cell that is activated has a specific receptor “hard-wired” into its DNA, and all of its progeny will have identical DNA and T cell receptors, forming clones of the original T cell.</para><figure id="fig-ch22_03_05"><title>Clonal Selection and Expansion of T Lymphocytes</title><media id="fs-id2328136" alt="This flowchart shows the process in which a naïve T cell become activated T cells in the left part of the pathway and memory cells in the right part of the pathway.">
+<image mime-type="image/jpg" src="../../media/2218_Clonal_Selection_and_Expansion_of_T_Lymphocytes.jpg" width="450"/>
+</media>
+<caption> Stem cells differentiate into T cells with specific receptors, called clones. The clones with receptors specific for antigens on the pathogen are selected for and expanded.</caption></figure></section>
+<section id="fs-id1416790">
+<title>The Cellular Basis of Immunological Memory</title>
+<para id="fs-id2203025">During a primary adaptive immune response, both <term>memory T cells</term> and <term>effector T cells</term> are generated. Memory T cells are long-lived and can even persist for a lifetime. Memory cells are primed to act rapidly. Thus, any subsequent exposure to the pathogen will elicit a very rapid T cell response. This rapid, secondary adaptive response generates large numbers of effector T cells so fast that the pathogen is often overwhelmed before it can cause any symptoms of disease. This is what is meant by immunity to a disease. The same pattern of primary and secondary immune responses occurs in B cells and the antibody response, as will be discussed later in the chapter.</para>
+</section>
+<section id="fs-id1645676">
+<title>T Cell Types and their Functions</title>
+<figure id="fig-ch22_03_06"><title>Pathogen Presentation</title><media id="fs-id2175272" alt="This figure shows the different steps in processing an extracellular pathogen.">
+<image mime-type="image/jpg" src="../../media/2219_Pathogen_Presentation.jpg" width="380"/>
+</media>
+<caption> (a) CD4 is associated with helper and regulatory T cells. An extracellular pathogen is processed and presented in the binding cleft of a class II MHC molecule, and this interaction is strengthened by the CD4 molecule. (b) CD8 is associated with cytotoxic T cells. An intracellular pathogen is presented by a class I MHC molecule, and CD8 interacts with it.</caption></figure><para id="fs-id2141981">Although the correlation is not 100 percent, CD4-bearing T cells are associated with helper functions and CD8-bearing T cells are associated with cytotoxicity. These functional distinctions based on CD4 and CD8 markers are useful in defining the function of each type.</para>
+<section id="fs-id1898856">
+<title>Helper T Cells and their Cytokines</title>
+<para id="fs-id1978621"><term>Helper T cells (Th)</term>, bearing the CD4 molecule, function by secreting cytokines that act to enhance other immune responses. There are two classes of Th cells, and they act on different components of the immune response. These cells are not distinguished by their surface molecules but by the characteristic set of cytokines they secrete (<link target-id="tbl-ch22_05" document=""/>).</para>
+</section>
+<section id="fs-id1640359">
+<title>Cytotoxic T cells</title>
+<para id="fs-id2459849"><term>Cytotoxic T cells (Tc)</term> are T cells that kill target cells by inducing apoptosis using the same mechanism as NK cells. They act by using perforins and granzymes contained in their cytoplasmic granules. As was discussed earlier with NK cells, killing a virally infected cell before the virus can complete its replication cycle results in the production of no infectious particles. As more Tc cells are developed during an immune response, they overwhelm the ability of the virus to cause disease. In addition, each Tc cell can kill more than one target cell, making them especially effective. Tc cells are so important in the antiviral immune response that some speculate that this was the main reason the adaptive immune response evolved in the first place.</para></section>
+<section id="fs-id1370208">
+<title>Regulatory T Cells</title>
+<para id="fs-id2070653"><term>Regulatory T cells (Treg)</term>, or suppressor T cells, are the most recently discovered of the types listed here, so less is understood about them. They suppress other T cell immune responses. This is an important feature of the immune response, because if clonal expansion during immune responses were allowed to continue uncontrolled, these responses could lead to autoimmune diseases and other medical issues.</para><para id="fs-id1397991">Not only do T cells directly destroy pathogens, but they regulate nearly all other types of the adaptive immune response as well, as evidenced by the functions of the T cell types, their surface markers, the cells they work on, and the types of pathogens they work against (see <link target-id="tbl-ch22_05" document=""/>).</para>
+</section>
+</section>
+<section id="fs-id2019838" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id2142367">T cells recognize antigens with their antigen receptor, a complex of two protein chains on their surface. They do not recognize self-antigens, however, but only processed antigen presented on their surfaces in a binding groove of a major histocompatibility complex molecule. T cells develop in the thymus, where they learn to use self-MHC molecules to recognize only foreign antigens, thus making them tolerant to self-antigens. There are several functional types of T lymphocytes, the major ones being helper, regulatory, and cytotoxic T cells.</para></section>
+<section id="fs-id1748841" class="multiple-choice">
+<title>Review Chapter</title>
+<exercise id="fs-id2337856">
+<problem id="fs-id1479584"><para id="fs-id1479586">T cells that secrete cytokines that help antibody responses are called ________.</para>
+<list id="fs-id2142222" list-type="enumerated" number-style="lower-alpha">
+<item>Th1</item>
+<item>Th2</item>
+<item>regulatory T cells</item>
+<item>thymocytes</item>
+</list>
+</problem>
+<solution id="fs-id1365011">
+<label/>
+<para id="fs-id1425437">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1950416">
+<problem id="fs-id2264263"><para id="fs-id1404448">The taking in of antigen and digesting it for later presentation is called ________.</para>
+<list id="fs-id1240454" list-type="enumerated" number-style="lower-alpha">
+<item>antigen presentation</item>
+<item>antigen processing</item>
+<item>endocytosis</item>
+<item>exocytosis</item>
+</list>
+</problem>
+<solution id="fs-id1909264">
+<label/>
+<para id="fs-id1897936">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id2443791">
+<problem id="fs-id1481178"><para id="fs-id1481179">Why is clonal expansion so important?</para>
+<list id="fs-id1485074" list-type="enumerated" number-style="lower-alpha">
+<item>to select for specific cells</item>
+<item>to secrete cytokines</item>
+<item>to kill target cells</item>
+<item>to increase the numbers of specific cells</item>
+</list>
+</problem>
+<solution id="fs-id2017546">
+<label/>
+<para id="fs-id1890724">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id2169042">
+<problem id="fs-id1707473"><para id="fs-id2341162">The elimination of self-reactive thymocytes is called ________.</para>
+<list id="fs-id1978216" list-type="enumerated" number-style="lower-alpha">
+<item>positive selection.</item>
+<item>negative selection.</item>
+<item>tolerance.</item>
+<item>clonal selection.</item>
+</list>
+</problem>
+<solution id="fs-id2110635">
+<label/>
+<para id="fs-id2002997">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id2293814">
+<problem id="fs-id2023719"><para id="fs-id2023720">Which type of T cell is most effective against viruses?</para>
+<list id="fs-id2229536" list-type="enumerated" number-style="lower-alpha">
+<item>Th1</item>
+<item>Th2</item>
+<item>cytotoxic T cells</item>
+<item>regulatory T cells</item>
+</list>
+</problem>
+<solution id="fs-id1352233">
+<label/>
+<para id="fs-id2242057">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id2336562" class="free-response">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id2033426">
+<problem id="fs-id1289140"><para id="fs-id1849563">Describe the processing and presentation of an intracellular antigen.</para></problem>
+<solution id="fs-id2068457"><label/>
+<para id="fs-id2143706">The antigen is digested by the proteasome, brought into the endoplasmic reticulum by the TAP transporter system, where it binds to class I MHC molecules. These are taken to the cell surface by transport vesicles.</para>
+</solution>
+</exercise>
+<exercise id="fs-id2316133">
+<problem id="fs-id2228202"><para id="fs-id1478440">Describe clonal selection and expansion.</para></problem>
+<solution id="fs-id2269348"><label/>
+<para id="fs-id1708290">Antigen-specific clones are stimulated as their antigen receptor binds to antigen. They are then activated and proliferate, expanding their numbers. The result is a large number of antigen-specific lymphocytes.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1635366"><term>antigenic determinant</term> <meaning id="fs-id1481429">(also, epitope) one of the chemical groups recognized by a single type of lymphocyte antigen receptor</meaning></definition>
+<definition id="fs-id2070752"><term>antigen presentation</term> <meaning id="fs-id1648664">binding of processed antigen to the protein-binding cleft of a major histocompatibility complex molecule</meaning></definition>
+<definition id="fs-id1978306"><term>antigen processing</term> <meaning id="fs-id1277920">internalization and digestion of antigen in an antigen-presenting cell</meaning></definition>
+<definition id="fs-id2267884"><term>antigen receptor</term> <meaning id="fs-id2125524">two-chain receptor by which lymphocytes recognize antigen</meaning></definition>
+<definition id="fs-id2111353"><term>clone</term> <meaning id="fs-id2080413">group of lymphocytes sharing the same antigen receptor</meaning></definition>
+<definition id="fs-id1549056"><term>clonal expansion</term> <meaning id="fs-id2271934">growth of a clone of selected lymphocytes</meaning></definition>
+<definition id="fs-id1290384"><term>clonal selection</term> <meaning id="fs-id1961500">stimulating growth of lymphocytes that have specific receptors</meaning></definition>
+<definition id="fs-id2146202"><term>constant region domain</term> <meaning id="fs-id2142396">part of a lymphocyte antigen receptor that does not vary much between different receptor types</meaning></definition>
+<definition id="fs-id2345070"><term>cytotoxic T cells (Tc)</term> <meaning id="fs-id1369002">T lymphocytes with the ability to induce apoptosis in target cells</meaning></definition>
+<definition id="fs-id2303781"><term>effector T cells</term> <meaning id="fs-id2078602">immune cells with a direct, adverse effect on a pathogen</meaning></definition>
+<definition id="fs-id2156824"><term>helper T cells (Th)</term> <meaning id="fs-id2252339">T cells that secrete cytokines to enhance other immune responses, involved in activation of both B and T cell lymphocytes</meaning></definition>
+<definition id="fs-id1766157"><term>immunological memory</term> <meaning id="fs-id1254141">ability of the adaptive immune response to mount a stronger and faster immune response upon re-exposure to a pathogen</meaning></definition>
+<definition id="fs-id1483881"><term>major histocompatibility complex (MHC)</term> <meaning id="fs-id2271414">gene cluster whose proteins present antigens to T cells</meaning></definition>
+<definition id="fs-id811388"><term>memory T cells</term> <meaning id="fs-id1547385">long-lived immune cell reserved for future exposure to an pathogen</meaning></definition>
+<definition id="fs-id1350049"><term>MHC class I</term> <meaning id="fs-id1218348">found on most cells of the body, it binds to the CD8 molecule on T cells</meaning></definition>
+<definition id="fs-id2229086"><term>MHC class II</term> <meaning id="fs-id2020215">found on macrophages, dendritic cells, and B cells, it binds to CD4 molecules on T cells</meaning></definition>
+<definition id="fs-id1375562"><term>negative selection</term> <meaning id="fs-id2031189">selection against thymocytes in the thymus that react with self-antigen</meaning></definition>
+<definition id="fs-id1484302"><term>polyclonal response</term> <meaning id="fs-id1761817">response by multiple clones to a complex antigen with many determinants</meaning></definition>
+<definition id="fs-id2167494"><term>primary adaptive response</term> <meaning id="fs-id2044674">immune system’s response to the first exposure to a pathogen</meaning></definition>
+<definition id="fs-id1857831"><term>positive selection</term> <meaning id="fs-id1861952">selection of thymocytes within the thymus that interact with self, but not non-self, MHC molecules</meaning></definition>
+<definition id="fs-id1975693"><term>regulatory T cells (Treg)</term> <meaning id="fs-id2036909">(also, suppressor T cells) class of CD4 T cells that regulates other T cell responses</meaning></definition>
+<definition id="fs-id2160669"><term>secondary adaptive response</term> <meaning id="fs-id1861916">immune response observed upon re-exposure to a pathogen, which is stronger and faster than a primary response</meaning></definition>
+<definition id="fs-id2204267"><term>T cell tolerance</term> <meaning id="fs-id2349869">process during T cell differentiation where most T cells that recognize antigens from one’s own body are destroyed</meaning></definition>
+<definition id="fs-id1926996"><term>Th1 cells</term> <meaning id="fs-id1548911">cells that secrete cytokines that enhance the activity of macrophages and other cells</meaning></definition>
+<definition id="fs-id1373152"><term>Th2 cells</term> <meaning id="fs-id2242361">cells that secrete cytokines that induce B cells to differentiate into antibody-secreting plasma cells</meaning></definition>
+<definition id="fs-id2241044"><term>variable region domain</term> <meaning id="fs-id1424729">part of a lymphocyte antigen receptor that varies considerably between different receptor types</meaning></definition>
+</glossary>
+</document>

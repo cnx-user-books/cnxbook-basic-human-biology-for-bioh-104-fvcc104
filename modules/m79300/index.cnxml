@@ -1,0 +1,112 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>1.4  Requirements for Human Life fvcc104</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m79300</md:content-id>
+  <md:title>1.4  Requirements for Human Life fvcc104</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss the role of oxygen and nutrients in maintaining human survival</item>
+<item>Explain why extreme heat and extreme cold threaten human survival</item>
+<item>Explain how the pressure exerted by gases and fluids influences human survival</item>
+</list></md:abstract>
+  <md:uuid>db17b946-cab7-4982-9fc7-01aecbc0196c</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1520530">Humans have been adapting to life on Earth for at least the past 200,000 years. Earth and its atmosphere have provided us with air to breathe, water to drink, and food to eat, but these are not the only requirements for survival. Although you may rarely think about it, you also cannot live outside of a certain range of temperature and pressure that the surface of our planet and its atmosphere provides. The next sections explore these four requirements of life.</para>
+<section id="fs-id2081426">
+<title>Oxygen</title>
+<para id="fs-id2396763">Atmospheric air is only about 20 percent oxygen, but that oxygen is a key component of the chemical reactions that keep the body alive, including the reactions that produce ATP. Brain cells are especially sensitive to lack of oxygen because of their requirement for a high-and-steady production of ATP. Brain damage is likely within five minutes without oxygen, and death is likely within ten minutes.</para>
+</section>
+<section id="fs-id2395044">
+<title>Nutrients</title>
+<para id="fs-id2532130">A <term>nutrient</term> is a substance in foods and beverages that is essential to human survival. The three basic classes of nutrients are water, the energy-yielding and body-building nutrients, and the micronutrients (vitamins and minerals).</para>
+<para id="fs-id1250210"><title>Water</title>The most critical nutrient is water. The body’s functional chemicals are dissolved and transported in water, and the chemical reactions of life take place in water. Water makes up about 70 percent of an adult’s body mass.</para><para id="fs-id2269270"><title>Food Glorious Food</title>The energy-yielding nutrients are primarily carbohydrates and lipids, while proteins mainly supply the amino acids that are the building blocks of the body itself.</para><para id="fs-id1841065"><title>Macronutrients and Micronutrients</title>Water and the energy-yielding nutrients are also referred to as <term>macronutrients</term> because the body needs them in large amounts. In contrast, <term>micronutrients</term> are vitamins and minerals. These elements and compounds participate in many essential chemical reactions and processes, such as nerve impulses, and some, such as calcium, also contribute to the body’s structure. </para></section>
+<section id="fs-id2352651">
+<title>Narrow Range of Temperature</title>
+<para id="fs-id1758474">The chemical reactions upon which the body depends can only take place within a narrow range of body temperature, from just below to just above 37°C (98.6°F). When body temperature rises well above or drops well below normal, certain proteins (enzymes) that facilitate chemical reactions lose their normal structure and their ability to function and the chemical reactions of metabolism cannot proceed.</para><para id="fs-id1688531"><title>Coping with Extreme Temperatures</title>That said, the body can respond effectively to short-term exposure to heat (<link target-id="fig-ch01_04_01" document=""/>) or cold. One of the body’s responses to heat is, of course, sweating. As sweat evaporates from skin, it removes some thermal energy from the body, cooling it. Adequate water (from the extracellular fluid in the body) is necessary to produce sweat, so adequate fluid intake is essential to balance that loss during the sweat response. </para><figure id="fig-ch01_04_01"><title>Extreme Heat</title><media id="fs-id1882111" alt="This photo shows two white-clad men riding camels through a sparse desert. Two canvas tents are visible in the background.">
+<image mime-type="image/jpg" src="../../media/01_06_Extreme_Heat.jpg" width="420"/>
+</media>
+<caption>Humans adapt to some degree to repeated exposure to high temperatures. (credit: McKay Savage/flickr)</caption></figure><para id="fs-id2012017"><title>Cold</title>The body can also respond effectively to short-term exposure to cold. One response to cold is shivering, which is random muscle movement that generates heat. Another response is increased breakdown of stored energy to generate heat. When that energy reserve is depleted, however, and the core temperature begins to drop significantly, red blood cells will lose their ability to give up oxygen, denying the brain of this critical component of ATP production.</para><note id="fs-id1977888" class="anatomy everyday">
+<label/>
+<title>Everyday Connection</title>
+<para id="fs-id1902785"><title>Controlled Hypothermia</title>
+As you have learned, the body continuously engages in coordinated physiological processes to maintain a stable temperature. In some cases, however, overriding this system can be useful, or even life-saving. Hypothermia is the clinical term for an abnormally low body temperature (hypo- = “below” or “under”). Controlled hypothermia is clinically induced hypothermia performed in order to reduce the metabolic rate of an organ or of a person’s entire body.</para>
+<para id="fs-id2471181">Controlled hypothermia often is used, for example, during open-heart surgery because it decreases the metabolic needs of the brain, heart, and other organs, reducing the risk of damage to them. When controlled hypothermia is used clinically, the patient is given medication to prevent shivering. The body is then cooled to 25–32°C (79–89°F). The heart is stopped and an external heart-lung pump maintains circulation to the patient’s body. The heart is cooled further and is maintained at a temperature below 15°C (60°F) for the duration of the surgery. This very cold temperature helps the heart muscle to tolerate its lack of blood supply during the surgery.</para>
+</note>
+</section>
+<section id="fs-id1618558">
+<title>Narrow Range of Atmospheric Pressure</title>
+<para id="fs-id1648023">Altitude sickness occurs in part because the atmosphere at high altitudes exerts less pressure, reducing the exchange of these gases, and causing shortness of breath, confusion, headache, lethargy, and nausea. Mountain climbers carry oxygen to reduce the effects of both low oxygen levels and low barometric pressure at higher altitudes.</para><figure id="fig-ch01_04_02"><title>Harsh Conditions</title><media id="fs-id2141248" alt="This photo shows Mount Everest as seen from a distance. It is a large, pyramid-shaped, craggy peak with many smaller snow-covered peaks in the foreground. The peak of Mount Everest is partially occluded by clouds.">
+<image mime-type="image/jpg" src="../../media/01_07_Harsh_Conditions.jpg" width="380"/>
+</media>
+<caption>Climbers on Mount Everest must accommodate extreme cold, low oxygen levels, and low barometric pressure in an environment hostile to human life. (credit: Melanie Ko/flickr)</caption></figure><para id="fs-id2097735">The dynamic pressure of body fluids is also important to human survival. For example, blood pressure, which is the pressure exerted by blood as it flows within blood vessels, must be great enough to enable blood to reach all body tissues, and yet low enough to ensure that the delicate blood vessels can withstand the friction and force of the pulsating flow of pressurized blood.</para>
+</section>
+<section id="fs-id2813764" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id2661562">Humans cannot survive for more than a few minutes without oxygen, for more than several days without water, and for more than several weeks without carbohydrates, lipids, proteins, vitamins, and minerals. Although the body can respond to high temperatures by sweating and to low temperatures by shivering and increased fuel consumption, long-term exposure to extreme heat and cold is not compatible with survival. The body requires a precise atmospheric pressure to maintain its gases in solution and to facilitate respiration—the intake of oxygen and the release of carbon dioxide. Humans also require blood pressure high enough to ensure that blood reaches all body tissues but low enough to avoid damage to blood vessels.</para></section>
+<section id="fs-id2023410" class="multiple-choice">
+<title>Review Questions</title>
+<exercise id="fs-id2303679">
+<problem id="fs-id2144727"><para id="fs-id1469266">Humans have the most urgent need for a continuous supply of ________.</para>
+<list id="fs-id1845348" list-type="enumerated" number-style="lower-alpha">
+<item>food</item>
+<item>nitrogen</item>
+<item>oxygen</item>
+<item>water</item>
+</list>
+</problem>
+<solution id="fs-id2242359">
+<label/>
+<para id="fs-id1489946">C</para>
+</solution>
+</exercise>
+<exercise id="fs-id2378896">
+<problem id="fs-id2524700"><para id="fs-id2322385">Which of the following statements about nutrients is true?</para>
+<list id="fs-id1357708" list-type="enumerated" number-style="lower-alpha">
+<item>All classes of nutrients are essential to human survival.</item>
+<item>Because the body cannot store any micronutrients, they need to be consumed nearly every day.</item>
+<item>Carbohydrates, lipids, and proteins are micronutrients.</item>
+<item>Macronutrients are vitamins and minerals.</item>
+</list>
+</problem>
+<solution id="fs-id2843981">
+<label/>
+<para id="fs-id1962359">A</para>
+</solution>
+</exercise>
+<exercise id="fs-id2570988">
+<problem id="fs-id1382103"><para id="fs-id1747855">C.J. is stuck in her car during a bitterly cold blizzard. Her body responds to the cold by ________.</para>
+<list id="fs-id2627097" list-type="enumerated" number-style="lower-alpha"><item>increasing the blood to her hands and feet</item>
+<item>becoming lethargic to conserve heat</item>
+<item>breaking down stored energy</item>
+<item>significantly increasing blood oxygen levels</item>
+</list></problem>
+<solution id="fs-id2430032">
+<label/>
+<para id="fs-id1896932">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1849856" class="free-response">
+<title>CRITICAL THINKING QUESTIONS</title>
+<exercise id="fs-id2443247">
+<problem id="fs-id1844958"><para id="fs-id2381959">When you open a bottle of sparkling water, the carbon dioxide gas in the bottle form bubbles. If the bottle is left open, the water will eventually “go flat.” Explain these phenomena in terms of atmospheric pressure.</para></problem>
+<solution id="fs-id2874960"><label/>
+<para id="fs-id2293179">In a sealed bottle of sparkling water, carbon dioxide gas is kept dissolved in the water under a very high pressure. When you open the bottle, the pressure of the gas above the liquid changes from artificially high to normal atmospheric pressure. The dissolved carbon dioxide gas expands, and rises in bubbles to the surface. When a bottle of sparkling water is left open, it eventually goes flat because its gases continue to move out of solution until the pressure in the water is approximately equal to atmospheric pressure.</para>
+</solution>
+</exercise>
+<exercise id="fs-id2662563">
+<problem id="fs-id2009732"><para id="fs-id2321216">On his midsummer trek through the desert, Josh ran out of water. Why is this particularly dangerous?</para></problem>
+<solution id="fs-id2158747"><label/>
+<para id="fs-id2637099">The primary way that the body responds to high environmental heat is by sweating; however, sweating requires water, which comes from body fluids, including blood plasma. If Josh becomes dehydrated, he will be unable to sweat adequately to cool his body, and he will be at risk for heat stroke as his blood pressure drops too much from the loss of water from the blood plasma.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id2327019"><term>nutrient</term> <meaning id="fs-id1947244">chemical obtained from foods and beverages that is critical to human survival</meaning></definition>
+<definition id="fs-id1897772"><term>pressure</term> <meaning id="fs-id1525390">force exerted by a substance in contact with another substance</meaning></definition>
+</glossary>
+</document>

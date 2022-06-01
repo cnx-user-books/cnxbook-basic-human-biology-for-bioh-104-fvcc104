@@ -1,0 +1,296 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>14.1   Sensory Perception    fvcc104</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m80082</md:content-id>
+  <md:title>14.1   Sensory Perception    fvcc104</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe different types of sensory receptors</item>
+<item>Describe the structures responsible for the special senses of taste, smell, hearing, balance, and vision</item>
+<item>Distinguish how different tastes are transduced</item>
+<item>Describe the means of mechanoreception for hearing and balance</item>
+<item>List the supporting structures around the eye and describe the structure of the eyeball</item>
+<item>Describe the processes of phototransduction</item>
+</list></md:abstract>
+  <md:uuid>6024681d-642e-4df2-8f1c-c80b9aa8461b</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2250975">A major role of sensory receptors is to help us learn about the environment around us, or about the state of our internal environment. Stimuli from varying sources, and of different types, are received and changed into the electrochemical signals of the nervous system. This occurs when a stimulus changes the cell membrane potential of a sensory neuron. The stimulus causes the sensory cell to produce an action potential that is relayed into the central nervous system (CNS), where it is integrated with other sensory information—or sometimes higher cognitive functions—to become a conscious perception of that stimulus. The central integration may then lead to a motor response.</para>
+<para id="fs-id2124989">Describing sensory function with the term sensation or perception is a deliberate distinction. Sensation is the activation of sensory receptor cells at the level of the stimulus. Perception is the central processing of sensory stimuli into a meaningful pattern. Perception is dependent on sensation, but not all sensations are perceived. Receptors are the cells or structures that detect sensations.  For example, mechanical or thermal changes.</para><section id="fs-id2842750">
+<title>Sensory Receptors</title>
+<para id="fs-id2924733">Stimuli in the environment activate specialized receptor cells in the peripheral nervous system. Different types of stimuli are sensed by different types of receptor cells. Receptors can be classified structurally on the basis of cell type and their position in relation to stimuli they sense. They can also be classified functionally on the basis of the <term>transduction</term> of stimuli, or how the mechanical stimulus, light, or chemical changed the cell membrane potential.</para><section id="fs-id2586809">
+<title>Structural Receptor Types</title>
+<para id="fs-id2519438">The cells that interpret information about the environment can be either (1) a neuron that has a <term>free nerve ending</term>, with dendrites embedded in tissue that would receive a sensation; (2) a neuron that has an <term>encapsulated ending</term> in which the sensory nerve endings are encapsulated in connective tissue that enhances their sensitivity; or (3) a specialized <term>receptor cell</term>, which has distinct structural components that interpret a specific type of stimulus (<link target-id="fig-ch14_01_01" document=""/>). The pain and temperature receptors in the dermis of the skin are examples of neurons that have free nerve endings. Also located in the dermis of the skin are lamellated corpuscles, neurons with encapsulated nerve endings that respond to pressure and touch. The cells in the retina that respond to light stimuli are an example of a specialized receptor, a <term>photoreceptor</term>.</para>
+<figure id="fig-ch14_01_01"><title>Receptor Classification by Cell Type </title><media id="fs-id2041934" alt="This figure shows the different types of receptors. The top panel shows a neuron receptor with free receptor endings, the middle panel shows a neuron receptor with encapsulated nerve endings, and the bottom panel shows a specialized receptor cell.">
+<image mime-type="image/jpg" src="../../media/1401_Receptor_Types.jpg" width="490"/>
+</media>
+<caption>Receptor cell types can be classified on the basis of their structure. Sensory neurons can have either (a) free nerve endings or (b) encapsulated endings. Photoreceptors in the eyes, such as rod cells, are examples of (c) specialized receptor cells. These cells release neurotransmitters onto a bipolar cell, which then synapses with the optic nerve neurons.</caption></figure><para id="fs-id1971652">Another way that receptors can be classified is based on their location relative to the stimuli. An <term>exteroceptor</term> is a receptor that is located near a stimulus in the external environment, such as the somatosensory receptors that are located in the skin. An <term>interoceptor</term> is one that interprets stimuli from internal organs and tissues, such as the receptors that sense the increase in blood pressure in the aorta or carotid sinus. Finally, a <term>proprioceptor</term> is a receptor located near a moving part of the body, such as a muscle, that interprets the positions of the tissues as they move.</para>
+</section>
+<section id="fs-id2610135">
+<title>Functional Receptor Types</title>
+<para id="fs-id2418865">Receptor cells can be categorized on the basis of the type of stimuli they transduce. Chemical stimuli can be interpreted by a <term>chemoreceptor</term> that interprets chemical stimuli, such as an object’s taste or smell. <term>Osmoreceptors</term> respond to solute concentrations of body fluids. Additionally, pain is primarily a chemical sense that interprets the presence of chemicals from tissue damage, or similar intense stimuli, through a <term>nociceptor</term>. Physical stimuli, such as pressure and vibration, as well as the sensation of sound and body position (balance), are interpreted through a <term>mechanoreceptor</term>. Another physical stimulus that has its own type of receptor is temperature, which is sensed through a <term>thermoreceptor</term> that is either sensitive to temperatures above (heat) or below (cold) normal body temperature.</para></section>
+</section>
+<section id="fs-id1588313">
+<title>Sensory Nerves</title>
+<para id="fs-id2592102">Once any sensory cell transduces a stimulus into a nerve impulse, that impulse has to travel along axons to reach the CNS. In many of the special senses, the axons leaving the sensory receptors have a <term>topographical</term> arrangement, meaning that the location of the sensory receptor relates to the location of the axon in the nerve. For example, in the retina, axons from RGCs in the fovea are located at the center of the optic nerve, where they are surrounded by axons from the more peripheral RGCs.</para>
+<section id="fs-id2489043">
+<title>Spinal Nerves</title>
+<para id="fs-id1364985">Generally, spinal nerves contain afferent axons from sensory receptors in the periphery, such as from the skin, mixed with efferent axons travelling to the muscles or other effector organs. As the spinal nerve nears the spinal cord, it splits into dorsal and ventral roots. The dorsal root contains only the axons of sensory neurons, whereas the ventral roots contain only the axons of the motor neurons. Some of the branches will synapse with local neurons in the dorsal root ganglion, posterior (dorsal) horn, or even the anterior (ventral) horn, at the level of the spinal cord where they enter. Other branches will travel a short distance up or down the spine to interact with neurons at other levels of the spinal cord. A branch may also turn into the posterior (dorsal) column of the white matter to connect with the brain. For the sake of convenience, we will use the terms ventral and dorsal in reference to structures within the spinal cord that are part of these pathways. This will help to underscore the relationships between the different components. Typically, spinal nerve systems that connect to the brain are <term>contralateral</term>, in that the right side of the body is connected to the left side of the brain and the left side of the body to the right side of the brain.</para>
+</section>
+<section id="fs-id2515332">
+<title>Cranial Nerves</title>
+<para id="fs-id1836569">Cranial nerves convey specific sensory information from the head and neck directly to the brain. For sensations below the neck, the right side of the body is connected to the left side of the brain and the left side of the body to the right side of the brain. Whereas spinal information is contralateral, cranial nerve systems are mostly <term>ipsilateral</term>, meaning that a cranial nerve on the right side of the head is connected to the right side of the brain. Some cranial nerves contain only sensory axons, such as the olfactory, optic, and vestibulocochlear nerves. Other cranial nerves contain both sensory and motor axons, including the trigeminal, facial, glossopharyngeal, and vagus nerves (however, the vagus nerve is not associated with the somatic nervous system). The general senses of somatosensation for the face travel through the trigeminal system.</para>
+</section>
+</section>
+<section id="fs-id1278355" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id2613446">The senses are olfaction (smell), gustation (taste), somatosensation (sensations associated with the skin and body), audition (hearing), equilibrium (balance), and vision. With the exception of somatosensation, this list represents the special senses, or those systems of the body that are associated with specific organs such as the tongue or eye. Somatosensation belongs to the general senses, which are those sensory structures that are distributed throughout the body and in the walls of various organs. The special senses are all primarily part of the somatic nervous system in that they are consciously perceived through cerebral processes, though some special senses contribute to autonomic function. The general senses can be divided into somatosensation, which is commonly considered touch, but includes tactile, pressure, vibration, temperature, and pain perception. The general senses also include the visceral senses, which are separate from the somatic nervous system function in that they do not normally rise to the level of conscious perception.</para>
+<para id="fs-id2144397">The cells that transduce sensory stimuli into the electrochemical signals of the nervous system are classified on the basis of structural or functional aspects of the cells. The structural classifications are either based on the anatomy of the cell that is interacting with the stimulus (free nerve endings, encapsulated endings, or specialized receptor cell), or where the cell is located relative to the stimulus (interoceptor, exteroceptor, proprioceptor). Thirdly, the functional classification is based on how the cell transduces the stimulus into a neural signal. Chemoreceptors respond to chemical stimuli and are the basis for olfaction and gustation. Related to chemoreceptors are osmoreceptors and nociceptors for fluid balance and pain reception, respectively. Mechanoreceptors respond to mechanical stimuli and are the basis for most aspects of somatosensation, as well as being the basis of audition and equilibrium in the inner ear. Thermoreceptors are sensitive to temperature changes, and photoreceptors are sensitive to light energy.</para>
+<para id="fs-id2738849">The nerves that convey sensory information from the periphery to the CNS are either spinal nerves, connected to the spinal cord, or cranial nerves, connected to the brain. Spinal nerves have mixed populations of fibers; some are motor fibers and some are sensory. The sensory fibers connect to the spinal cord through the dorsal root, which is attached to the dorsal root ganglion. Sensory information from the body that is conveyed through spinal nerves will project to the opposite side of the brain to be processed by the cerebral cortex. The cranial nerves can be strictly sensory fibers, such as the olfactory, optic, and vestibulocochlear nerves, or mixed sensory and motor nerves, such as the trigeminal, facial, glossopharyngeal, and vagus nerves. The cranial nerves are connected to the same side of the brain from which the sensory information originates.</para>
+</section>
+<section id="fs-id2427745" class="interactive-exercise">
+<title>Interactive Link Questions</title>
+<exercise id="fs-id2354604">
+<problem id="fs-id2522841">
+<para id="fs-id2394702">Watch this <link url="http://openstax.org/l/DanielleReed">video</link> to learn about Dr. Danielle Reed of the Monell Chemical Senses Center in Philadelphia, PA, who became interested in science at an early age because of her sensory experiences. She recognized that her sense of taste was unique compared with other people she knew. Now, she studies the genetic differences between people and their sensitivities to taste stimuli. In the video, there is a brief image of a person sticking out their tongue, which has been covered with a colored dye. This is how Dr. Reed is able to visualize and count papillae on the surface of the tongue. People fall into two large groups known as “tasters” and “non-tasters” on the basis of the density of papillae on their tongue, which also indicates the number of taste buds. Non-tasters can taste food, but they are not as sensitive to certain tastes, such as bitterness. Dr. Reed discovered that she is a non-taster, which explains why she perceived bitterness differently than other people she knew. Are you very sensitive to tastes? Can you see any similarities among the members of your family?</para>
+</problem>
+<solution id="fs-id1617099">
+<label/>
+<para id="fs-id2146662">Answers will vary, but a typical answer might be: I can eat most anything (except mushrooms!), so I don’t think that I’m that sensitive to tastes. My whole family likes eating a variety of foods, so it seems that we all have the same level of sensitivity.</para>
+</solution>
+</exercise>
+<exercise id="fs-id2302528">
+<problem id="fs-id2489038"><para id="fs-id2489039"><link target-id="fig-ch14_01_08" document=""/> The basilar membrane is the thin membrane that extends from the central core of the cochlea to the edge. What is anchored to this membrane so that they can be activated by movement of the fluids within the cochlea?</para></problem>
+<solution id="fs-id2198517">
+<label/>
+<para id="fs-id2868074"><link target-id="fig-ch14_01_08" document=""/> The hair cells are located in the organ of Corti, which is located on the basilar membrane. The stereocilia of those cells would normally be attached to the tectorial membrane (though they are detached in the micrograph because of processing of the tissue).</para></solution>
+</exercise>
+<exercise id="fs-id1582992">
+<problem id="fs-id2168981">
+<para id="fs-id2789977">Watch this <link url="http://openstax.org/l/ear1">video</link> to learn more about how the structures of the ear convert sound waves into a neural signal by moving the “hairs,” or stereocilia, of the cochlear duct. Specific locations along the length of the duct encode specific frequencies, or pitches. The brain interprets the meaning of the sounds we hear as music, speech, noise, etc. Which ear structures are responsible for the amplification and transfer of sound from the external ear to the inner ear?</para></problem>
+<solution id="fs-id2454296">
+<label/>
+<para id="fs-id2428850">The small bones in the middle ear, the ossicles, amplify and transfer sound between the tympanic membrane of the external ear and the oval window of the inner ear.</para></solution>
+</exercise>
+<exercise id="fs-id2525792">
+<problem id="fs-id2396766"><para id="fs-id1393213">Watch this <link url="http://openstax.org/l/ear2">animation</link> to learn more about the inner ear and to see the cochlea unroll, with the base at the back of the image and the apex at the front. Specific wavelengths of sound cause specific regions of the basilar membrane to vibrate, much like the keys of a piano produce sound at different frequencies. Based on the animation, where do frequencies—from high to low pitches—cause activity in the hair cells within the cochlear duct?</para></problem>
+<solution id="fs-id1855289">
+<label/>
+<para id="fs-id1984838">High frequencies activate hair cells toward the base of the cochlea, and low frequencies activate hair cells toward the apex of the cochlea.</para></solution>
+</exercise>
+<exercise id="fs-id1531596">
+<problem id="fs-id2528680"><para id="fs-id2528681">Watch this <link url="http://openstax.org/l/occipital">video</link> to learn more about a transverse section through the brain that depicts the visual pathway from the eye to the occipital cortex. The first half of the pathway is the projection from the RGCs through the optic nerve to the lateral geniculate nucleus in the thalamus on either side. This first fiber in the pathway synapses on a thalamic cell that then projects to the visual cortex in the occipital lobe where “seeing,” or visual perception, takes place. This video gives an abbreviated overview of the visual system by concentrating on the pathway from the eyes to the occipital lobe. The video makes the statement (at 0:45) that “specialized cells in the retina called ganglion cells convert the light rays into electrical signals.” What aspect of retinal processing is simplified by that statement? Explain your answer.</para></problem>
+<solution id="fs-id2595709">
+<label/>
+<para id="fs-id2595501">Photoreceptors convert light energy, or photons, into an electrochemical signal. The retina contains bipolar cells and the RGCs that finally convert it into action potentials that are sent from the retina to the CNS. It is important to recognize when popular media and online sources oversimplify complex physiological processes so that misunderstandings are not generated. This video was created by a medical device manufacturer who might be trying to highlight other aspects of the visual system than retinal processing. The statement they make is not incorrect, it just bundles together several steps, which makes it sound like RGCs are the transducers, rather than photoreceptors.</para></solution>
+</exercise>
+</section>
+<section id="fs-id2594719" class="multiple-choice">
+<title>Review Questions</title>
+<exercise id="fs-id2174387">
+<problem id="fs-id3061460"><para id="fs-id2613624">What type of receptor cell is responsible for transducing pain stimuli?</para>
+<list id="fs-id2415080" list-type="enumerated" number-style="lower-alpha">
+<item>mechanoreceptor</item>
+<item>nociceptor</item>
+<item>osmoreceptor</item>
+<item>photoreceptor</item>
+</list>
+</problem>
+<solution id="fs-id1641540">
+<label/>
+<para id="fs-id1476894">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id2740806">
+<problem id="fs-id1517352"><para id="fs-id1517353">Which of these cranial nerves is part of the gustatory system?</para>
+<list id="fs-id2155932" list-type="enumerated" number-style="lower-alpha">
+<item>olfactory</item>
+<item>trochlear</item>
+<item>trigeminal</item>
+<item>facial</item>
+</list>
+</problem>
+<solution id="fs-id2384182">
+<label/>
+<para id="fs-id2483056">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id2589425">
+<problem id="fs-id2382198"><para id="fs-id1953664">Which submodality of taste is sensitive to the pH of saliva?</para>
+<list id="fs-id2532771" list-type="enumerated" number-style="lower-alpha">
+<item>umami</item>
+<item>sour</item>
+<item>bitter</item>
+<item>sweet</item>
+</list>
+</problem>
+<solution id="fs-id2595983">
+<label/>
+<para id="fs-id2520635">B</para>
+</solution>
+</exercise>
+<exercise id="fs-id1904177">
+<problem id="fs-id2520848"><para id="fs-id2520849">Axons from which neuron in the retina make up the optic nerve?</para>
+<list id="fs-id1849333" list-type="enumerated" number-style="lower-alpha">
+<item>amacrine cells</item>
+<item>photoreceptors</item>
+<item>bipolar cells</item>
+<item>retinal ganglion cells</item>
+</list>
+</problem>
+<solution id="fs-id2967392">
+<label/>
+<para id="fs-id2453698">D</para>
+</solution>
+</exercise>
+<exercise id="fs-id2024484">
+<problem id="fs-id2174906"><para id="fs-id2058610">What type of receptor cell is involved in the sensations of sound and balance?</para>
+<list id="fs-id1959434" list-type="enumerated" number-style="lower-alpha">
+<item>photoreceptor</item>
+<item>chemoreceptor</item>
+<item>mechanoreceptor</item>
+<item>nociceptor</item>
+</list>
+</problem>
+<solution id="fs-id1632488">
+<label/>
+<para id="fs-id2269003">C</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id2371428" class="free-response">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id2061794">
+<problem id="fs-id2485827"><para id="fs-id2203636">The sweetener known as stevia can replace glucose in food. What does the molecular similarity of stevia to glucose mean for the gustatory sense?</para></problem>
+<solution id="fs-id2025724"><label/>
+<para id="fs-id1531355">The stevia molecule is similar to glucose such that it will bind to the glucose receptor in sweet-sensitive taste buds. However, it is not a substrate for the ATP-generating metabolism within cells.</para>
+</solution>
+</exercise>
+<exercise id="fs-id2663099">
+<problem id="fs-id1525451"><para id="fs-id1525452">Why does the blind spot from the optic disc in either eye not result in a blind spot in the visual field?</para></problem>
+<solution id="fs-id1530171"><label/>
+<para id="fs-id2632227">The visual field for each eye is projected onto the retina as light is focused by the lens. The visual information from the right visual field falls on the left side of the retina and vice versa. The optic disc in the right eye is on the medial side of the fovea, which would be the left side of the retina. However, the optic disc in the left eye would be on the right side of that fovea, so the right visual field falls on the side of the retina in the left field where there is no blind spot.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1688571"><term>alkaloid</term> <meaning id="fs-id2610630">substance, usually from a plant source, that is chemically basic with respect to pH and will stimulate bitter receptors</meaning></definition>
+<definition id="fs-id1517547"><term>amacrine cell</term> <meaning id="fs-id1748920">type of cell in the retina that connects to the bipolar cells near the outer synaptic layer and provides the basis for early image processing within the retina</meaning></definition>
+<definition id="fs-id1584033"><term>ampulla</term> <meaning id="fs-id1470668">in the ear, the structure at the base of a semicircular canal that contains the hair cells and cupula for transduction of rotational movement of the head</meaning></definition>
+<definition id="fs-id2370597"><term>anosmia</term> <meaning id="fs-id2006679">loss of the sense of smell; usually the result of physical disruption of the first cranial nerve</meaning></definition>
+<definition id="fs-id1588524"><term>aqueous humor</term> <meaning id="fs-id2593483">watery fluid that fills the anterior chamber containing the cornea, iris, ciliary body, and lens of the eye</meaning></definition>
+<definition id="fs-id2737390"><term>audition</term> <meaning id="fs-id2080916">sense of hearing</meaning></definition>
+<definition id="fs-id2132729"><term>auricle</term> <meaning id="fs-id2298374">fleshy external structure of the ear</meaning></definition>
+<definition id="fs-id2640261"><term>basilar membrane</term> <meaning id="fs-id2762096">in the ear, the floor of the cochlear duct on which the organ of Corti sits</meaning></definition>
+<definition id="fs-id1708056"><term>bipolar cell</term> <meaning id="fs-id2176052">cell type in the retina that connects the photoreceptors to the RGCs</meaning></definition>
+<definition id="fs-id1910178"><term>capsaicin</term> <meaning id="fs-id2623547">molecule that activates nociceptors by interacting with a temperature-sensitive ion channel and is the basis for “hot” sensations in spicy food</meaning></definition>
+<definition id="fs-id1586916"><term>chemoreceptor</term> <meaning id="fs-id2867548">sensory receptor cell that is sensitive to chemical stimuli, such as in taste, smell, or pain</meaning></definition>
+<definition id="fs-id2674425"><term>choroid</term> <meaning id="fs-id2570570">highly vascular tissue in the wall of the eye that supplies the outer retina with blood</meaning></definition>
+<definition id="fs-id3150648"><term>ciliary body</term> <meaning id="fs-id2174823">smooth muscle structure on the interior surface of the iris that controls the shape of the lens through the zonule fibers</meaning></definition>
+<definition id="fs-id2417863"><term>cochlea</term> <meaning id="fs-id1882068">auditory portion of the inner ear containing structures to transduce sound stimuli</meaning></definition>
+<definition id="fs-id2307041"><term>cochlear duct</term> <meaning id="fs-id2052019">space within the auditory portion of the inner ear that contains the organ of Corti and is adjacent to the scala tympani and scala vestibuli on either side</meaning></definition>
+<definition id="fs-id2122594"><term>cone photoreceptor</term> <meaning id="fs-id2533192">one of the two types of retinal receptor cell that is specialized for color vision through the use of three photopigments distributed through three separate populations of cells</meaning></definition>
+<definition id="fs-id2584800"><term>contralateral</term> <meaning id="fs-id1531576">word meaning “on the opposite side,” as in axons that cross the midline in a fiber tract</meaning></definition>
+<definition id="fs-id2116138"><term>cornea</term> <meaning id="fs-id2372322">fibrous covering of the anterior region of the eye that is transparent so that light can pass through it</meaning></definition>
+<definition id="fs-id2593847"><term>cupula</term> <meaning id="fs-id2413223">specialized structure within the base of a semicircular canal that bends the stereocilia of hair cells when the head rotates by way of the relative movement of the enclosed fluid</meaning></definition>
+<definition id="fs-id2148554"><term>encapsulated ending</term> <meaning id="fs-id2532729">configuration of a sensory receptor neuron with dendrites surrounded by specialized structures to aid in transduction of a particular type of sensation, such as the lamellated corpuscles in the deep dermis and subcutaneous tissue</meaning></definition>
+<definition id="fs-id2500959"><term>equilibrium</term> <meaning id="fs-id2270195">sense of balance that includes sensations of position and movement of the head</meaning></definition>
+<definition id="fs-id2489071"><term>external ear</term> <meaning id="fs-id2847664">structures on the lateral surface of the head, including the auricle and the ear canal back to the tympanic membrane</meaning></definition>
+<definition id="fs-id1748177"><term>exteroceptor</term> <meaning id="fs-id1752139">sensory receptor that is positioned to interpret stimuli from the external environment, such as photoreceptors in the eye or somatosensory receptors in the skin</meaning></definition>
+<definition id="fs-id2796773"><term>extraocular muscle</term> <meaning id="fs-id2426971">one of six muscles originating out of the bones of the orbit and inserting into the surface of the eye which are responsible for moving the eye</meaning></definition>
+<definition id="fs-id2978129"><term>fibrous tunic</term> <meaning id="fs-id2280614">outer layer of the eye primarily composed of connective tissue known as the sclera and cornea</meaning></definition>
+<definition id="fs-id1379450"><term>fovea</term> <meaning id="fs-id3938294">exact center of the retina at which visual stimuli are focused for maximal acuity, where the retina is thinnest, at which there is nothing but photoreceptors</meaning></definition>
+<definition id="fs-id2451032"><term>free nerve ending</term> <meaning id="fs-id1530589">configuration of a sensory receptor neuron with dendrites in the connective tissue of the organ, such as in the dermis of the skin, that are most often sensitive to chemical, thermal, and mechanical stimuli</meaning></definition>
+<definition id="fs-id2396872"><term>general sense</term> <meaning id="fs-id2582570">any sensory system that is distributed throughout the body and incorporated into organs of multiple other systems, such as the walls of the digestive organs or the skin</meaning></definition>
+<definition id="fs-id2574619"><term>gustation</term> <meaning id="fs-id1845402">sense of taste</meaning></definition>
+<definition id="fs-id2812739"><term>gustatory receptor cells</term> <meaning id="fs-id2181856">sensory cells in the taste bud that transduce the chemical stimuli of gustation</meaning></definition>
+<definition id="fs-id1845671"><term>hair cells</term> <meaning id="fs-id2531221">mechanoreceptor cells found in the inner ear that transduce stimuli for the senses of hearing and balance</meaning></definition>
+<definition id="fs-id1844790"><term>incus</term> <meaning id="fs-id2919193">(also, anvil) ossicle of the middle ear that connects the malleus to the stapes</meaning></definition>
+<definition id="fs-id1530552"><term>inferior oblique</term> <meaning id="fs-id1397845">extraocular muscle responsible for lateral rotation of the eye</meaning></definition>
+<definition id="fs-id1766205"><term>inferior rectus</term> <meaning id="fs-id2788497">extraocular muscle responsible for looking down</meaning></definition>
+<definition id="fs-id2352188"><term>inner ear</term> <meaning id="fs-id2835343">structure within the temporal bone that contains the sensory apparati of hearing and balance</meaning></definition>
+<definition id="fs-id1386374"><term>inner segment</term> <meaning id="fs-id2718486">in the eye, the section of a photoreceptor that contains the nucleus and other major organelles for normal cellular functions</meaning></definition>
+<definition id="fs-id2051605"><term>inner synaptic layer</term> <meaning id="fs-id1339167">layer in the retina where bipolar cells connect to RGCs</meaning></definition>
+<definition id="fs-id2031884"><term>interoceptor</term> <meaning id="fs-id2641984">sensory receptor that is positioned to interpret stimuli from internal organs, such as stretch receptors in the wall of blood vessels</meaning></definition>
+<definition id="fs-id4195000"><term>ipsilateral</term> <meaning id="fs-id1707839">word meaning on the same side, as in axons that do not cross the midline in a fiber tract</meaning></definition>
+<definition id="fs-id2362905"><term>iris</term> <meaning id="fs-id2480492">colored portion of the anterior eye that surrounds the pupil</meaning></definition>
+<definition id="fs-id2108994"><term>kinesthesia</term> <meaning id="fs-id1615764">sense of body movement based on sensations in skeletal muscles, tendons, joints, and the skin</meaning></definition>
+<definition id="fs-id1838526"><term>lacrimal duct</term> <meaning id="fs-id2524333">duct in the medial corner of the orbit that drains tears into the nasal cavity</meaning></definition>
+<definition id="fs-id2145302"><term>lacrimal gland</term> <meaning id="fs-id1410477">gland lateral to the orbit that produces tears to wash across the surface of the eye</meaning></definition>
+<definition id="fs-id2237245"><term>lateral rectus</term> <meaning id="fs-id2531232">extraocular muscle responsible for abduction of the eye</meaning></definition>
+<definition id="fs-id1321295"><term>lens</term> <meaning id="fs-id3106441">component of the eye that focuses light on the retina</meaning></definition>
+<definition id="fs-id2572683"><term>levator palpebrae superioris</term> <meaning id="fs-id2644246">muscle that causes elevation of the upper eyelid, controlled by fibers in the oculomotor nerve</meaning></definition>
+<definition id="fs-id2673956"><term>macula</term> <meaning id="fs-id2470634">enlargement at the base of a semicircular canal at which transduction of equilibrium stimuli takes place within the ampulla</meaning></definition>
+<definition id="fs-id2170232"><term>malleus</term> <meaning id="fs-id2008426">(also, hammer) ossicle that is directly attached to the tympanic membrane</meaning></definition>
+<definition id="fs-id2695566"><term>mechanoreceptor</term> <meaning id="fs-id2525131">receptor cell that transduces mechanical stimuli into an electrochemical signal</meaning></definition>
+<definition id="fs-id2738795"><term>medial rectus</term> <meaning id="fs-id2355468">extraocular muscle responsible for adduction of the eye</meaning></definition>
+<definition id="fs-id1850288"><term>middle ear</term> <meaning id="fs-id1546119">space within the temporal bone between the ear canal and bony labyrinth where the ossicles amplify sound waves from the tympanic membrane to the oval window</meaning></definition>
+<definition id="fs-id1982994"><term>neural tunic</term> <meaning id="fs-id2696827">layer of the eye that contains nervous tissue, namely the retina</meaning></definition>
+<definition id="fs-id2230111"><term>nociceptor</term> <meaning id="fs-id1370106">receptor cell that senses pain stimuli</meaning></definition>
+<definition id="fs-id1639346"><term>odorant molecules</term> <meaning id="fs-id2097753">volatile chemicals that bind to receptor proteins in olfactory neurons to stimulate the sense of smell</meaning></definition>
+<definition id="fs-id2368842"><term>olfaction</term> <meaning id="fs-id2428640">sense of smell</meaning></definition>
+<definition id="fs-id2370469"><term>olfactory bulb</term> <meaning id="fs-id1903485">central target of the first cranial nerve; located on the ventral surface of the frontal lobe in the cerebrum</meaning></definition>
+<definition id="fs-id1474653"><term>olfactory epithelium</term> <meaning id="fs-id2299759">region of the nasal epithelium where olfactory neurons are located</meaning></definition>
+<definition id="fs-id1856347"><term>olfactory sensory neuron</term> <meaning id="fs-id1546432">receptor cell of the olfactory system, sensitive to the chemical stimuli of smell, the axons of which compose the first cranial nerve</meaning></definition>
+<definition id="fs-id2297778"><term>opsin</term> <meaning id="fs-id2299678">protein that contains the photosensitive cofactor retinal for phototransduction</meaning></definition>
+<definition id="fs-id1368067"><term>optic disc</term> <meaning id="fs-id1489287">spot on the retina at which RGC axons leave the eye and blood vessels of the inner retina pass</meaning></definition>
+<definition id="fs-id1587772"><term>optic nerve</term> <meaning id="fs-id1999832">second cranial nerve, which is responsible visual sensation</meaning></definition>
+<definition id="fs-id2282101"><term>organ of Corti</term> <meaning id="fs-id1652808">structure in the cochlea in which hair cells transduce movements from sound waves into electrochemical signals</meaning></definition>
+<definition id="fs-id2129369"><term>osmoreceptor</term> <meaning id="fs-id2338669">receptor cell that senses differences in the concentrations of bodily fluids on the basis of osmotic pressure</meaning></definition>
+<definition id="fs-id2260824"><term>ossicles</term> <meaning id="fs-id2446714">three small bones in the middle ear</meaning></definition>
+<definition id="fs-id1165207862551"><term>otolith</term> <meaning id="fs-id1165190996270">layer of calcium carbonate crystals located on top of the otolithic membrane</meaning></definition>
+<definition id="fs-id2278136"><term>otolithic membrane</term> <meaning id="fs-id943347">gelatinous substance in the utricle and saccule of the inner ear that contains calcium carbonate crystals and into which the stereocilia of hair cells are embedded</meaning></definition>
+<definition id="fs-id2652920"><term>outer segment</term> <meaning id="fs-id2430027">in the eye, the section of a photoreceptor that contains opsin molecules that transduce light stimuli</meaning></definition>
+<definition id="fs-id2639607"><term>outer synaptic layer</term> <meaning id="fs-id1641142">layer in the retina at which photoreceptors connect to bipolar cells</meaning></definition>
+<definition id="fs-id2508237"><term>oval window</term> <meaning id="fs-id2108256">membrane at the base of the cochlea where the stapes attaches, marking the beginning of the scala vestibuli</meaning></definition>
+<definition id="fs-id2815440"><term>palpebral conjunctiva</term> <meaning id="fs-id2382907">membrane attached to the inner surface of the eyelids that covers the anterior surface of the cornea</meaning></definition>
+<definition id="fs-id2762612"><term>papilla</term> <meaning id="fs-id2652695">for gustation, a bump-like projection on the surface of the tongue that contains taste buds</meaning></definition>
+<definition id="fs-id2119747"><term>photoisomerization</term> <meaning id="fs-id2134916">chemical change in the retinal molecule that alters the bonding so that it switches from the 11-<emphasis effect="italics">cis</emphasis>-retinal isomer to the all-<emphasis effect="italics">trans</emphasis>-retinal isomer</meaning></definition>
+<definition id="fs-id2592051"><term>photon</term> <meaning id="fs-id2137963">individual “packet” of light</meaning></definition>
+<definition id="fs-id2032172"><term>photoreceptor</term> <meaning id="fs-id2226918">receptor cell specialized to respond to light stimuli</meaning></definition>
+<definition id="fs-id1848942"><term>proprioception</term> <meaning id="fs-id2694943">sense of position and movement of the body</meaning></definition>
+<definition id="fs-id2844880"><term>proprioceptor</term> <meaning id="fs-id2311071">receptor cell that senses changes in the position and kinesthetic aspects of the body</meaning></definition>
+<definition id="fs-id2722460"><term>pupil</term> <meaning id="fs-id2523752">open hole at the center of the iris that light passes through into the eye</meaning></definition>
+<definition id="fs-id1256105"><term>receptor cell</term> <meaning id="fs-id2458275">cell that transduces environmental stimuli into neural signals</meaning></definition>
+<definition id="fs-id2414925"><term>retina</term> <meaning id="fs-id2132594">nervous tissue of the eye at which phototransduction takes place</meaning></definition>
+<definition id="fs-id2813497"><term>retinal</term> <meaning id="fs-id2486940">cofactor in an opsin molecule that undergoes a biochemical change when struck by a photon (pronounced with a stress on the last syllable)</meaning></definition>
+<definition id="fs-id2004510"><term>retinal ganglion cell (RGC)</term> <meaning id="fs-id1422210">neuron of the retina that projects along the second cranial nerve</meaning></definition>
+<definition id="fs-id1921581"><term>rhodopsin</term> <meaning id="fs-id2057273">photopigment molecule found in the rod photoreceptors</meaning></definition>
+<definition id="fs-id1339174"><term>rod photoreceptor</term> <meaning id="fs-id2351290">one of the two types of retinal receptor cell that is specialized for low-light vision</meaning></definition>
+<definition id="fs-id2124643"><term>round window</term> <meaning id="fs-id2978055">membrane that marks the end of the scala tympani</meaning></definition>
+<definition id="fs-id2799995"><term>saccule</term> <meaning id="fs-id2016195">structure of the inner ear responsible for transducing linear acceleration in the vertical plane</meaning></definition>
+<definition id="fs-id1637961"><term>scala tympani</term> <meaning id="fs-id2350054">portion of the cochlea that extends from the apex to the round window</meaning></definition>
+<definition id="fs-id1892003"><term>scala vestibuli</term> <meaning id="fs-id629401">portion of the cochlea that extends from the oval window to the apex</meaning></definition>
+<definition id="fs-id2269264"><term>sclera</term> <meaning id="fs-id2670276">white of the eye</meaning></definition>
+<definition id="fs-id2673095"><term>semicircular canals</term> <meaning id="fs-id2772980">structures within the inner ear responsible for transducing rotational movement information</meaning></definition>
+<definition id="fs-id1987678"><term>sensory modality</term> <meaning id="fs-id2464140">a particular system for interpreting and perceiving environmental stimuli by the nervous system</meaning></definition>
+<definition id="fs-id1653406"><term>somatosensation</term> <meaning id="fs-id2023182">general sense associated with modalities lumped together as touch</meaning></definition>
+<definition id="fs-id2458698"><term>special sense</term> <meaning id="fs-id2036674">any sensory system associated with a specific organ structure, namely smell, taste, sight, hearing, and balance</meaning></definition>
+<definition id="fs-id2111324"><term>spiral ganglion</term> <meaning id="fs-id1617222">location of neuronal cell bodies that transmit auditory information along the eighth cranial nerve</meaning></definition>
+<definition id="fs-id2175909"><term>stapes</term> <meaning id="fs-id2071142">(also, stirrup) ossicle of the middle ear that is attached to the inner ear</meaning></definition>
+<definition id="fs-id2417163"><term>stereocilia</term> <meaning id="fs-id2518027">array of apical membrane extensions in a hair cell that transduce movements when they are bent</meaning></definition>
+<definition id="fs-id2282260"><term>submodality</term> <meaning id="fs-id2045042">specific sense within a broader major sense such as sweet as a part of the sense of taste, or color as a part of vision</meaning></definition>
+<definition id="fs-id1978381"><term>superior oblique</term> <meaning id="fs-id2304283">extraocular muscle responsible for medial rotation of the eye</meaning></definition>
+<definition id="fs-id2469158"><term>superior rectus</term> <meaning id="fs-id1638031">extraocular muscle responsible for looking up</meaning></definition>
+<definition id="fs-id2366514"><term>taste buds</term> <meaning id="fs-id1905335">structures within a papilla on the tongue that contain gustatory receptor cells</meaning></definition>
+<definition id="fs-id1535594"><term>tectorial membrane</term> <meaning id="fs-id2186889">component of the organ of Corti that lays over the hair cells, into which the stereocilia are embedded</meaning></definition>
+<definition id="fs-id2788712"><term>thermoreceptor</term> <meaning id="fs-id2458453">sensory receptor specialized for temperature stimuli</meaning></definition>
+<definition id="fs-id1546050"><term>topographical</term> <meaning id="fs-id2115503">relating to positional information</meaning></definition>
+<definition id="fs-id1516474"><term>transduction</term> <meaning id="fs-id2745165">process of changing an environmental stimulus into the electrochemical signals of the nervous system</meaning></definition>
+<definition id="fs-id1356490"><term>trochlea</term> <meaning id="fs-id2026645">cartilaginous structure that acts like a pulley for the superior oblique muscle</meaning></definition>
+<definition id="fs-id2625814"><term>tympanic membrane</term> <meaning id="fs-id2875578">ear drum</meaning></definition>
+<definition id="fs-id2252769"><term>umami</term> <meaning id="fs-id1442307">taste submodality for sensitivity to the concentration of amino acids; also called the savory sense</meaning></definition>
+<definition id="fs-id1610898"><term>utricle</term> <meaning id="fs-id1967083">structure of the inner ear responsible for transducing linear acceleration in the horizontal plane</meaning></definition>
+<definition id="fs-id2766954"><term>vascular tunic</term> <meaning id="fs-id2246837">middle layer of the eye primarily composed of connective tissue with a rich blood supply</meaning></definition>
+<definition id="fs-id2601528"><term>vestibular ganglion</term> <meaning id="fs-id2010914">location of neuronal cell bodies that transmit equilibrium information along the eighth cranial nerve</meaning></definition>
+<definition id="fs-id2103109"><term>vestibule</term> <meaning id="fs-id1927346">in the ear, the portion of the inner ear responsible for the sense of equilibrium</meaning></definition>
+<definition id="fs-id2226926"><term>visceral sense</term> <meaning id="fs-id2299838">sense associated with the internal organs</meaning></definition>
+<definition id="fs-id2308716"><term>vision</term> <meaning id="fs-id2286706">special sense of sight based on transduction of light stimuli</meaning></definition>
+<definition id="fs-id2655901"><term>visual acuity</term> <meaning id="fs-id2138997">property of vision related to the sharpness of focus, which varies in relation to retinal position</meaning></definition>
+<definition id="fs-id2294606"><term>vitreous humor</term> <meaning id="fs-id2752965">viscous fluid that fills the posterior chamber of the eye</meaning></definition>
+<definition id="fs-id2459355"><term>zonule fibers</term> <meaning id="fs-id2457996">fibrous connections between the ciliary body and the lens</meaning></definition>
+</glossary>
+</document>
